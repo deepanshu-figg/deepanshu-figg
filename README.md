@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahultanwar-eth
+- 👋 Hi, I’m @deepanshu-figg
 - 👀 I’m interested in designing, UI, Front-end, Blockchain
 - 🌱 I’m currently learning ReactJS, Solidity
 - 💞️ I’m looking to collaborate on Design projects
